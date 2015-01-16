@@ -1,2 +1,3 @@
-# hello-world
-testing out the hello world guide
+# Hello-World
+
+This is a simple README file for the Hive worshop. :zap: :sob:
